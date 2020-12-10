@@ -7960,20 +7960,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aaron\\.nuget\\packages\\": {}
+    "C:\\Users\\Ruben\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\FlowerStoreAPI.Core\\Flowerstore.csproj",
+      "projectUniqueName": "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\Flowerstore.csproj",
       "projectName": "Flowerstore",
-      "projectPath": "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\FlowerStoreAPI.Core\\Flowerstore.csproj",
-      "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\FlowerStoreAPI.Core\\obj\\",
+      "projectPath": "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\Flowerstore.csproj",
+      "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

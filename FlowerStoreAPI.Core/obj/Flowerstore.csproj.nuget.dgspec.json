@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\flowerstoreapi.core\\Flowerstore.csproj": {}
+    "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\Flowerstore.csproj": {}
   },
   "projects": {
-    "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\flowerstoreapi.core\\Flowerstore.csproj": {
+    "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\Flowerstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\flowerstoreapi.core\\Flowerstore.csproj",
+        "projectUniqueName": "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\Flowerstore.csproj",
         "projectName": "Flowerstore",
-        "projectPath": "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\flowerstoreapi.core\\Flowerstore.csproj",
-        "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\Architecture\\correct\\wetransfer-662252\\Flowerstore\\flowerstoreapi.core\\obj\\",
+        "projectPath": "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\Flowerstore.csproj",
+        "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ruben\\source\\repos\\flowerstore\\flowerstore_archi\\FlowerStoreAPI.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
