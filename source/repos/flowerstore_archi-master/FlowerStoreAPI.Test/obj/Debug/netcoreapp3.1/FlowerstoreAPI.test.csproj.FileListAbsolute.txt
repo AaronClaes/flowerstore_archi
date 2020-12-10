@@ -1,4 +1,0 @@
-E:\school\Flowerstore\FlowerStoreAPI.Test\obj\Debug\netcoreapp3.1\FlowerstoreAPI.test.csprojAssemblyReference.cache
-E:\school\Flowerstore\FlowerStoreAPI.Test\obj\Debug\netcoreapp3.1\FlowerstoreAPI.test.AssemblyInfoInputs.cache
-E:\school\Flowerstore\FlowerStoreAPI.Test\obj\Debug\netcoreapp3.1\FlowerstoreAPI.test.AssemblyInfo.cs
-E:\school\Flowerstore\FlowerStoreAPI.Test\obj\Debug\netcoreapp3.1\FlowerstoreAPI.test.csproj.CoreCompileInputs.cache
