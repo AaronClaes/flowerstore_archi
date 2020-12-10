@@ -323,3 +323,11 @@ E:\projects\Architecture\correct\wetransfer-662252\Flowerstore\FlowerStoreAPI.Co
 E:\projects\Architecture\correct\wetransfer-662252\Flowerstore\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\staticwebassets\Flowerstore.StaticWebAssets.xml
 E:\projects\Architecture\correct\wetransfer-662252\Flowerstore\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.genruntimeconfig.cache
 E:\projects\Architecture\correct\wetransfer-662252\Flowerstore\FlowerStoreAPI.Core\bin\Debug\netcoreapp3.1\Flowerstore.xml
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.AssemblyInfoInputs.cache
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.AssemblyInfo.cs
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.dll
+C:\Users\Ruben\source\repos\flowerstore\flowerstore_archi\FlowerStoreAPI.Core\obj\Debug\netcoreapp3.1\Flowerstore.pdb

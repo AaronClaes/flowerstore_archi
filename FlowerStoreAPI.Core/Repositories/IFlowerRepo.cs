@@ -4,14 +4,14 @@ using FlowerStoreAPI.Data;
 using System.Threading.Tasks;
 
 namespace FlowerStoreAPI.Repositories
-{   
+{
     public interface IFlowerRepo
-    {   
+    {
         bool SaveChanges();
-        Task<IEnumerable<Flower>> GetAllFlowers();
-        Task<Flower> GetFlowerById(int id);
-        void CreateFlower(Flower flower);
-        void UpdateFlower(Flower flower);
-        void DeleteFlower(Flower flower);
+        Task<IEnumerable<Flower>> GetAllFlowers(int shopId);
+        Task<Flower> GetFlowerById(int shopId, int id);
+        void CreateFlowerAsync(int shopId, Flower flower);
+        void UpdateFlower(int shopId, Flower flower);
+        void DeleteFlower(int shopId, Flower flower);
     }
 }

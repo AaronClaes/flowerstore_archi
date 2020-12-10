@@ -9,6 +9,8 @@ namespace FlowerStoreAPI.Models
         [Key]
         public int Id { get; set; }
 
+        public int ShopId {get; set; }
+
         [Required]
         public string Name { get; set; }
 
